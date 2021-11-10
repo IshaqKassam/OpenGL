@@ -2,6 +2,8 @@
 
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
+#include "../External Resources/GLFW/include/GLFW/glfw3.h"
+#include "../External Resources/GLEW/include/GL/glew.h"
 
 //window dimensions
 const GLint WIDTH = 800, HEIGHT = 600;
